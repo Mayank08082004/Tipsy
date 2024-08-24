@@ -17,6 +17,4 @@ class ResultViewController: UIViewController {
         self.dismiss(animated: true)
     }
     
-   
-
 }
